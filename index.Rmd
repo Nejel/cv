@@ -1,39 +1,38 @@
 ---
-date: "March 23, 2016"
+date: "May 13, 2016"
 output:
   html_document:
     toc: yes
     toc_float: yes
 ---
 
-Нежель
+Нежельский Александр
 ============
 
 -----------------------------------------------
-1 MyAddress                        
-MyTown 1000                          
-MyCountry                           
-email@example.com
-@twitter_handle
-1800 my-phone-nr
+Московская область, пос. ВНИИССОК
+Россия                          
+nejel@mail.ru
+@NejelForever
++79296391943
 -----------------------------------------------
 
-Education
+Образование
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2014-2016
+:   **Магистратура, Международные отношения: Азиатские исследования**; НИУ ВШЭ (Москва)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Диссертация: Информационная безопасность Японии*
+    
+2010-2014
+:   **Бакалавр, Социология**; Волгоградский Государственный Университет (ВолГУ)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    *Диплом: Девиантное поведение молодежи в современном российском обществе
+*
 
-    *Minor: Awesomeology*
 
-Experience
+Опыт работы
 ----------
 
 **Your Most Recent Work Experience:**
