@@ -35,18 +35,19 @@ nejel@mail.ru
 Опыт работы
 ----------
 
-**Your Most Recent Work Experience:**
+**Текущее место работы:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+АО "Лаборатория Касперского".
+Будучи студентом первого курса магистратуры пришёл в компанию в августе 2015 года на стажировку на должность Social Media Manager. В течение года развился сначала в должность Event Specialist а позже Employer Brand Specialist. 
 
-* First item
+Ссылки на проекты, надо которыми работал:
+
+* https://events.kaspersky.com
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
+**Предыдущие места работы**
 
 Also with a short description.
 
