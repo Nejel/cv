@@ -10,10 +10,10 @@ output:
 ============
 
 -----------------------------------------------
-Московская область, пос. ВНИИССОК
-Россия                          
+Россия, Москва      
 nejel@mail.ru
 +79296391943
+https://github.com/nejel
 -----------------------------------------------
 
 
@@ -23,73 +23,97 @@ nejel@mail.ru
 **Текущее место работы:**
 
 АО "Лаборатория Касперского".
-Будучи студентом первого курса магистратуры пришёл в компанию в августе 2015 года на стажировку на должность Social Media Manager. В течение года развился сначала в должность Event Specialist а позже Employer Brand Specialist. 
+
+Будучи студентом первого курса магистратуры пришёл в компанию в августе 2015 года на стажировку на должность Social Media Manager. В течение года развился сначала в должность Event Specialist, а позже в Employer Brand Specialist. В настояший момент работаю в должности Project Manager.
+
+Project manager. Основные обязанности:
+
+- Работа в составе команды по развитию бренда работодателя Лаборатории Касперского.
+- Руководство командами разработки, взаимодействие с различными ресурсными подразделениями.
+- Работа над проектами в сфере digital-продвижения бренда работодателя. 
+- Работа с внутренними и внешними разработчиками над созданием сайтов и мультифункциональных digital-платформ. 
+- Разработка бизнес-требований совместно с заказчиком.
+- Финализация технических требований и оформление ТЗ на разработку.
+- Разработка бизнес-стратегии и стратегии цифрового продвижения продуктов. 
+- Ведение глобальных образовательных инициатив "Лаборатории Касперского". 
+- Формирование и согласование бюджетов проекта, создание плана и контроль сроков, выполнение и контроль выполнения задач на каждом этапе -- от формирования идеи до запуска в сеть. 
+- Внедрение кей-фичей, таких как мультисайтовая авторизация. 
+- Администрирование документации и задач в JIRA/Confluence.
+- Работа в различных системах управления проектами Trello, RedMine, Asana, JIRA.
+- Ведение проектов по методологии Agile.
 
 Ссылки на проекты, надо которыми работал:
 
 * https://events.kaspersky.com
+* https://academy.kaspersky.com/
+* https://career.kaspersky.com
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Сайд-проект:**
+
+BTnews.me
+Технический директор в команде проекта BTnews.me. 
+Основные обязанности:
+
+- Разработка с нуля и запуск сайта на основе CMS (https://btnews.me).
+- Интеграция, запуск и поддержка внутренних сервисов (базы знаний на wiki, Яндекс.Коннект и другие).
+- Разработка, тестирование и внедрение кей-фич сайта.
+- Управление доменами.
+- Руководство командой из нескольких web-разработчиков.
+- Создание и развитие новостного телеграм-бота @btnewsbot (парсинг новостей с сайта, распределение новостей в платформы).
+- Digital-продвижение и развитие новостного телеграм-канала @btnewsme (с 0 до 2000+ читателей).
 
 **Предыдущие места работы**
 
-Also with a short description.
+Триколор ТВ (ОАО НСК, www.tricolor.tv)
+Специалист по настройке и ремонту клиентского оборудования. Основные обязанности:
+
+- Приемка, настройка, обслуживание, ремонт клиентского и дилерского оборудование спутникового телесмотрения клиентов ОАО "НСК" (Триколор-ТВ).
+- Ведение учета дилеров и клиентов в CRM.
+- Коммуникация с внутренними заказчиками и внешними клиентами, оформление договоров, разрешение инцидентов.
+
 
 Технические навыки
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+    * Adobe Photoshop
+    * Анализ данных
+    * R studio
+    * LSTM
+    * Компьютерная лингвистика
+    * Agile Project Management
+    * Scrum 
+    * Kanban
+    * SQL
+    * Linux
+    * Business Analysis
+    * Domain administration
+    * Atlassian JIRA
+    * CMS Wordpress
+    * CMF Modx (revo)
+    * HTML5
+    * CSS
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Основатель и один из разработчиков проекта по компьтерной лингвистики #Нейробугурт. 
+LSTM-сеть на базе torch-rnn обучена на корпусе из 35 000 образцов для генерации текстов для социальных сетей нашего медиапроекта.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Код проекта:https://github.com/Nejel/neural
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
+Бизнес-результаты доступны [в социальных сетях.](https://vk.com/search?c%5Bq%5D=%23%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%B1%D1%83%D0%B3%D1%83%D1%80%D1%82&c%5Bsection%5D=statuses)
 
 
 Образование
 ---------
 
 2014-2016
-:   **Магистратура, Международные отношения: Азиатские исследования**; НИУ ВШЭ (Москва)
+:   **Магистр, Международные отношения: Азиатские исследования**; НИУ ВШЭ (Москва)
 
     *Диссертация: Информационная безопасность Японии*
     
 2010-2014
 :   **Бакалавр, Социология**; Волгоградский Государственный Университет (ВолГУ)
 
-    *Диплом: Девиантное поведение молодежи в современном российском обществе
-*
+    *Диплом: Девиантное поведение молодежи в современном российском обществе*
+
 
 Дополнительно
 ----------------------------------------
@@ -98,10 +122,17 @@ Programming Languages
 
      * Русский (нативный)
      * Английский (Upper Intermediate)
-     * Японский (начальный)
 
 * Основатель нескольких крупных пабликов Вконтакте (с совокупной аудиторией более 200к человек)
 
-* Окончил музыкальную школу по классу "Гитара" с отличием
-
 * Айкидока
+
+
+
+
+-----------------------------------------------
+Нежельский Александр      
+nejel@mail.ru
++79296391943
+https://github.com/nejel
+-----------------------------------------------
