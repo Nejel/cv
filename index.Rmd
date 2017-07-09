@@ -4,6 +4,8 @@ output:
   html_document:
     toc: yes
     toc_float: yes
+  pdf_document:
+    toc: yes
 ---
 
 Нежельский Александр
@@ -73,9 +75,7 @@ BTnews.me.
 Технические навыки
 --------------------
 
-    * Adobe Photoshop
     * Анализ данных
-    * R studio
     * LSTM
     * Компьютерная лингвистика
     * Agile Project Management
@@ -85,6 +85,7 @@ BTnews.me.
     * Linux
     * Business Analysis
     * R
+    * R studio
     * GIT
     * Domain administration
     * Atlassian JIRA
@@ -92,6 +93,12 @@ BTnews.me.
     * CMF Modx (revo)
     * HTML5
     * CSS
+    * Python
+    * Hiew (HEX)
+    * Reverse-engineering
+    * Adobe Photoshop
+    * Blender 3D
+    * 3DS Max
 
 Основатель и один из разработчиков проекта по компьтерной лингвистики #Нейробугурт. 
 В ходе проекта LSTM-сеть на базе torch-rnn обучена на корпусе из 35 000 образцов для генерации текстов для социальных сетей медиапроекта.
